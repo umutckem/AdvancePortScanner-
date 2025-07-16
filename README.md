@@ -63,21 +63,21 @@ Herhangi bir soru veya öneri için:
 
 # Başlangıç Ekranı İp Girişi
 
-<img width="1484" height="432" alt="Ekran görüntüsü 2025-07-11 222338" src="https://github.com/user-attachments/assets/d68ee77c-9006-4870-8b45-9bfc7e45d9cf" />
+<img width="1121" height="845" alt="image" src="https://github.com/user-attachments/assets/26f3c907-9347-43e0-ab6b-d0ffbb8a0acb" />
 
 Bu Ekranda İp girişi yapılarak ya da örenğin 192.168.1.0/24 ve ya 192.168.1.1 tek bir ip girilerek program başlatılabiliyor.
 
-<img width="1479" height="660" alt="Ekran görüntüsü 2025-07-11 222357" src="https://github.com/user-attachments/assets/a1dc9363-e061-42bb-ad7d-3759043abe8c" />
+<img width="1123" height="849" alt="image" src="https://github.com/user-attachments/assets/a9ccb962-b2ec-4b42-b0cf-c652590d4458" />
 
 Bu ekranda ise belirli portların taranması ya da girilen port aralıklarına bakılması sağlanılıyor 0-1024 arası örneğin
 
 #Örnek Ekran Çıktısı
 
-<img width="1898" height="952" alt="Ekran görüntüsü 2025-07-11 222411" src="https://github.com/user-attachments/assets/a8cd8fe7-8bda-4668-bd73-190b4efb1f72" />
+<img width="621" height="666" alt="image" src="https://github.com/user-attachments/assets/6d44796e-cdfd-42e1-b9f7-4a1cab6b5158" />
 
 Burda ise bütün portlara ping atarak hangi portların açık ya da kapalı olduğuna ya da banner'ları var mı onları kontrolünü sağlıyor.
 
-<img width="1820" height="957" alt="Ekran görüntüsü 2025-07-11 222420" src="https://github.com/user-attachments/assets/8fafe735-effe-4ab5-b209-bb0b2ac9f130" />
+<img width="804" height="705" alt="image" src="https://github.com/user-attachments/assets/e39bbe85-811f-4dd8-93e7-cea54e267224" />
 
 threads yapısı sayesinde çok hızlı işlem yapıyor ve bu threads yapılarını düzenli bir şekilde ekrana verilmesini sağlıyor
 
